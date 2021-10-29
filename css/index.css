@@ -80,8 +80,15 @@ header nav{
     align-items: center;
     padding: 20px 2%;
     font-size: 14px;
-    
-}
+    margin-left: -40px;
+    }
+
+    header nav button{
+        border: white;
+        background: white;
+        font-size: 15px;
+    }
+
 
 .container {
     width: 800px;
