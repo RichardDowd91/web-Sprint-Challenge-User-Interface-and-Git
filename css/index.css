@@ -252,6 +252,25 @@ header nav{
     padding-right: 0;
 }
 
+/*this section is for styling the about.html page */
+
+.mid-left{
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+}
+
+.bottom-left{
+    display: flex;
+    justify-content: flex-start;
+    align-content:flex-start;
+}
+
+.bottom-right{
+    display: flex;
+    justify-content: flex-end;
+    align-content: ;
+}
 footer {
     width: 100%;
     background: black;
