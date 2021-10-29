@@ -277,7 +277,14 @@ header nav{
 }
 
 .about2{
-    width:100%
+    width:60%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: flex-end;
+    text-align: left;
+    padding: 20px 0;
+    image:center;
 }
 
 .about2 img{
