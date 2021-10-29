@@ -284,6 +284,32 @@ header nav{
     flex-flow: row;
 }
 
+.strat{
+    border-bottom: 1px dashed black;
+    word-break:keep-all;
+    text-align: left;
+}
+
+.work{
+    border-bottom: 1px dashed black;
+    word-break:keep-all;
+    text-align:left;
+}
+
+.place{
+    border-bottom: 1px dashed black;
+    word-break:keep-all;
+    text-align:left;
+}
+
+.collab{
+    border-bottom: 1px dashed black;
+    word-break:keep-all;
+    text-align:left;
+}
+
+
+
 
 
 
