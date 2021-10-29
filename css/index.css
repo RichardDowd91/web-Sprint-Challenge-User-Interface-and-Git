@@ -74,19 +74,20 @@ header{
 }
 
 header nav{
-    width: 60%;
+    width: 100%;
     display: flex;
     justify-content:space-evenly ;
     align-items: center;
-    padding: 20px 2%;
+    padding: 20px 0;
     font-size: 14px;
-    margin-left: -40px;
+    
     }
 
     header nav button{
         border: white;
         background: white;
         font-size: 15px;
+        width: 16.66%;
 
     }
 
