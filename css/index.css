@@ -254,6 +254,36 @@ header nav{
 
 /*this section is for styling the about.html page */
 
+header{
+    display: flex;
+    justify-content: center;
+    align-content: flex-start ;
+    text-align: center;
+    gap: 30px;
+    width: 100%;
+    padding: 20px 0;
+    margin:0%;
+    word-break: break-all;
+    flex-flow: row
+}
+
+header nav{
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly ;
+    align-items: center;
+    padding: 20px 0;
+    font-size: 14px;
+}
+
+.about2{
+    width:100%
+}
+
+.about2 img{
+    width:100%;
+}
+
 .mid-left{
     display: flex;
     flex-wrap: wrap;
@@ -261,7 +291,7 @@ header nav{
     align-content: flex-end;
     text-align: center;
     gap: 30px;
-    width: 50%;
+    width: 100%;
     padding: 20px 0;
     margin:0%;
     word-break: break-all;
@@ -277,7 +307,7 @@ header nav{
     align-content: flex-end;
     text-align: center;
     gap: 30px;
-    width: 50%;
+    width: 100%;
     padding: 20px 0;
     margin:0 0;
     word-break: break-all;
@@ -288,7 +318,7 @@ header nav{
     border-bottom: 1px dashed black;
     word-break:keep-all;
     text-align: left;
-}
+    }
 
 .work{
     border-bottom: 1px dashed black;
@@ -307,6 +337,8 @@ header nav{
     word-break:keep-all;
     text-align:left;
 }
+
+
 
 
 
