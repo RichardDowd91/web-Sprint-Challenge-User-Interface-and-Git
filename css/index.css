@@ -68,22 +68,19 @@ p {
 
 header{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    align-content: flex-start ;
    
-}
-
-header h1{
-    display: flex;
-    justify-content: flex-end;
 }
 
 header nav{
     width: 60%;
     display: flex;
-    justify-content:flex-start ;
+    justify-content:space-evenly ;
     align-items: center;
     padding: 20px 2%;
     font-size: 14px;
+    
 }
 
 .container {
