@@ -87,6 +87,7 @@ header nav{
         border: white;
         background: white;
         font-size: 15px;
+
     }
 
 
@@ -105,7 +106,7 @@ header nav{
 
 .top-content .text-container {
     width: 48%;
-    padding: 0 1%;
+    padding: 20px 1%;
     padding-bottom: 20px;  
 }
 
